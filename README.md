@@ -1,7 +1,7 @@
 # Budget-Tracker
 
-(![Screenshot (21)](https://user-images.githubusercontent.com/93059565/163866459-26f867ff-e132-4bb8-b702-88e3f436578c.png)
-)
+![Screenshot (22)](https://user-images.githubusercontent.com/93059565/163868311-ccaf33a6-e4ac-425d-8f89-64e70d2d0f9d.png)
+
 
 ## Table of Contents
 
@@ -25,9 +25,9 @@
 Application that allows users to track there withdrawals and deposits onlin or offline. 
 
 ## User Story
-AS AN avid traveler
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling 
+As an avid traveler
+I want to be able to track my withdrawals and deposits with or without a data/internet connection
+so that my account balance is accurate when I am traveling. 
 
 ## Contributors
 
